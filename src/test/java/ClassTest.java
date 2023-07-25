@@ -19,7 +19,7 @@ public class ClassTest {
 
     @Test
     void testError(){
-        //nt b = 100/i;
+        int b = 100/i;
     }
 
 }
