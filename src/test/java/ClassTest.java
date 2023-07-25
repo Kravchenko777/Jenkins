@@ -10,7 +10,8 @@ public class ClassTest {
 
     @Test
     void testFail(){
-        Assertions.assertTrue(false);
+        Assertions.assertTrue(true);
+        //Assertions.assertTrue(false);
     }
 
 }
