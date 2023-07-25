@@ -14,12 +14,12 @@ public class ClassTest {
     void testFail(){
 
         Assertions.assertTrue(true);
-        //Assertions.assertTrue(false);
+        Assertions.assertTrue(false);
     }
 
     @Test
     void testError(){
-        int b = 100/i;
+        //nt b = 100/i;
     }
 
 }
